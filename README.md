@@ -63,4 +63,4 @@ Each `pr/` branch holds one part of this topic on top of upstream and says in it
 
 | Branch | Based on |
 |---|---|
-| `pr/browser` | `pr/display-video-output-page-draw` of p1ngb4ck/esphome-esp-video, `pr/storage` of p1ngb4ck/esphome-storage-interface, `pr/usb-host-refactor` of p1ngb4ck/esphome-usb-host |
+| `pr/browser` | `pr/remote-desktop` of p1ngb4ck/esphome-remote-desktop |
